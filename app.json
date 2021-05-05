@@ -1,0 +1,28 @@
+{
+  "id": "c7ff0353-44e0-4d30-b5cb-2b6bda51dc9d",
+  "name": "SD Seminar 18.0",
+  "publisher": "RASEG",
+  "version": "18.0.0.0",
+  "brief": "Seminar module ",
+  "description": "Seminar module from may 2021 (SuperUsers)",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./images/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SDSeminar18.0.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": ["TranslationFile"],
+  "target":"OnPrem"
+}
