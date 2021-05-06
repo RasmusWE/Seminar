@@ -1,6 +1,7 @@
 page 50101 SeminarCard
 // CSD1.00, 06-05-2021, RASEG
 {
+    Caption = 'Seminar Card';
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;

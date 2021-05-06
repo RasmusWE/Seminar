@@ -1,5 +1,6 @@
 page 50102 "Seminar List"
 {
+    Caption = 'Seminar List';
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;

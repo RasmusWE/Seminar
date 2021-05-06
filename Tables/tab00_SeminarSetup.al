@@ -2,7 +2,6 @@ table 50100 "CSD Seminar Setup"
 // CSD1.00, 05-05-2021, RASEG
 {
     DataClassification = CustomerContent;
-
     fields
     {
         field(10; "Primary Key"; Code[10])

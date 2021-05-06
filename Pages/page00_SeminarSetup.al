@@ -1,5 +1,6 @@
 page 50100 "CSD Seminar Setup"
 {
+    Caption = 'Seminar Setup';
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;

@@ -2,7 +2,6 @@ table 50101 "CSD Seminar"
 // CSD1.00, 05-05-2021, RASEG
 {
     DataClassification = CustomerContent;
-
     fields
     {
 
