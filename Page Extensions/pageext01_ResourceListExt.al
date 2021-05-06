@@ -1,4 +1,5 @@
 pageextension 50101 MyExtension extends "Resource List"
+// CSD1.00, 05-05-2021, RASEG
 {
     layout
     {

@@ -1,4 +1,5 @@
 enumextension 50100 "CSD Comment Line Table Name" extends "Comment Line Table Name"
+// CSD1.00, 05-05-2021, RASEG
 {
     value(50100; "CSD Seminar")
     {
