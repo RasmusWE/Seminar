@@ -124,6 +124,7 @@ table 50101 "CSD Seminar"
             g_SeminarSetup.TestField("Seminar Nos.");
             g_NoSeriesMgt.InitSeries(g_SeminarSetup."Seminar Nos.", xRec."No. Series", 0D, "No.", "No. Series");
         end;
+        "Last Date Modified" := TODAY;
     end;
 
     trigger OnModify();
